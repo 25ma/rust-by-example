@@ -1,0 +1,29 @@
+[package]
+name = "rust-by-example"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[[example]]
+name = "debug"
+path = "examples/01_1 hello world/print/debug.rs"
+
+[[example]]
+name = "display"
+path = "examples/01_1 hello world/print/display.rs"
+
+[[example]]
+name = "test_list"
+path = "examples/01_1 hello world/print/test_list.rs"
+
+[[example]]
+name = "fmt"
+path = "examples/01_1 hello world/print/fmt.rs"
+
+[[example]]
+name = "literals"
+path = "examples/02_primitives/literals.rs"
