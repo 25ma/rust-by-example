@@ -27,3 +27,7 @@ path = "examples/01_1 hello world/print/fmt.rs"
 [[example]]
 name = "literals"
 path = "examples/02_primitives/literals.rs"
+
+[[example]]
+name = "tuples"
+path = "examples/02_primitives/tuples.rs"
