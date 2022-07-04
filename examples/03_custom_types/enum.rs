@@ -1,6 +1,5 @@
 // 如下属性用于隐藏对未使用代码的警告
 #![allow(dead_code)]
-
 // 一个枚举内部可以是一个单元结构体，元组结构体或者普通的结构体
 #[derive(Debug)]
 enum WebEvent {
