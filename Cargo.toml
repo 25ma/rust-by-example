@@ -43,3 +43,7 @@ path = "examples/03_custom_types/structs.rs"
 [[example]]
 name = "enum"
 path = "examples/03_custom_types/enum.rs"
+
+[[example]]
+name = "enum_use"
+path = "examples/03_custom_types/enum_use.rs"
