@@ -39,3 +39,7 @@ path = "examples/02_primitives/array.rs"
 [[example]]
 name = "structs"
 path = "examples/03_custom_types/structs.rs"
+
+[[example]]
+name = "enum"
+path = "examples/03_custom_types/enum.rs"
