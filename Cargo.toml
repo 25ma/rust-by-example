@@ -51,3 +51,7 @@ path = "examples/03_custom_types/enum_use.rs"
 [[example]]
 name = "c_like"
 path = "examples/03_custom_types/c_like.rs"
+
+[[example]]
+name = "testcase_linked_list"
+path = "examples/03_custom_types/testcase_linked_list.rs"
