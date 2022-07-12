@@ -71,3 +71,7 @@ path = "examples/04_variable_bindings/scope.rs"
 [[example]]
 name = "declare"
 path = "examples/04_variable_bindings/declare.rs"
+
+[[example]]
+name = "freeze"
+path = "examples/04_variable_bindings/freeze.rs"
