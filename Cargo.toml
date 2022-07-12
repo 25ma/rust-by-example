@@ -59,3 +59,7 @@ path = "examples/03_custom_types/testcase_linked_list.rs"
 [[example]]
 name = "const"
 path = "examples/03_custom_types/const.rs"
+
+[[example]]
+name = "mut"
+path = "examples/04_variable_bindings/mut.rs"
