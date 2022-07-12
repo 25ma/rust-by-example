@@ -55,3 +55,7 @@ path = "examples/03_custom_types/c_like.rs"
 [[example]]
 name = "testcase_linked_list"
 path = "examples/03_custom_types/testcase_linked_list.rs"
+
+[[example]]
+name = "const"
+path = "examples/03_custom_types/const.rs"
