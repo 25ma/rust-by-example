@@ -63,3 +63,8 @@ path = "examples/03_custom_types/const.rs"
 [[example]]
 name = "mut"
 path = "examples/04_variable_bindings/mut.rs"
+
+
+[[example]]
+name = "scope"
+path = "examples/04_variable_bindings/scope.rs"
