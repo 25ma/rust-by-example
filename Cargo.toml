@@ -75,3 +75,7 @@ path = "examples/04_variable_bindings/declare.rs"
 [[example]]
 name = "freeze"
 path = "examples/04_variable_bindings/freeze.rs"
+
+[[example]]
+name = "cast"
+path = "examples/05_types/cast.rs"
