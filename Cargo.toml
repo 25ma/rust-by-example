@@ -64,7 +64,10 @@ path = "examples/03_custom_types/const.rs"
 name = "mut"
 path = "examples/04_variable_bindings/mut.rs"
 
-
 [[example]]
 name = "scope"
 path = "examples/04_variable_bindings/scope.rs"
+
+[[example]]
+name = "declare"
+path = "examples/04_variable_bindings/declare.rs"
