@@ -101,5 +101,6 @@ name = "try_from_try_into"
 path = "examples/06_conversion/try_from_try_into.rs"
 
 [[example]]
-name = "string"
-path = "examples/06_conversion/string.rs"
+name = "expression"
+path = "examples/07_expression/expression.rs"
+
