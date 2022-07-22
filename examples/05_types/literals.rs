@@ -25,5 +25,3 @@ fn main() {
     println!("size of `i` in bytes: {}", std::mem::size_of_val(&i));
     println!("size of `f` in bytes: {}", std::mem::size_of_val(&f));
 }
-
-

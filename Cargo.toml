@@ -83,3 +83,7 @@ path = "examples/05_types/cast.rs"
 [[example]]
 name = "type_literals"
 path = "examples/05_types/literals.rs"
+
+[[example]]
+name = "inference"
+path = "examples/05_types/inference.rs"
