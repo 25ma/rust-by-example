@@ -91,3 +91,11 @@ path = "examples/05_types/inference.rs"
 [[example]]
 name = "alias"
 path = "examples/05_types/alias.rs"
+
+[[example]]
+name = "from_into"
+path = "examples/06_conversion/from_into.rs"
+
+[[example]]
+name = "try_from_try_into"
+path = "examples/06_conversion/try_from_try_into.rs"
