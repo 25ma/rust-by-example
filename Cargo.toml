@@ -107,3 +107,7 @@ path = "examples/07_expression/expression.rs"
 [[example]]
 name = "if_else"
 path = "examples/08_flow_control/if_else.rs"
+
+[[example]]
+name = "loop"
+path = "examples/08_flow_control/loop.rs"
