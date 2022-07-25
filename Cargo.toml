@@ -104,3 +104,6 @@ path = "examples/06_conversion/try_from_try_into.rs"
 name = "expression"
 path = "examples/07_expression/expression.rs"
 
+[[example]]
+name = "if_else"
+path = "examples/08_flow_control/if_else.rs"
