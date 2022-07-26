@@ -111,3 +111,11 @@ path = "examples/08_flow_control/if_else.rs"
 [[example]]
 name = "loop"
 path = "examples/08_flow_control/loop.rs"
+
+[[example]]
+name = "nested"
+path = "examples/08_flow_control/loop/nested.rs"
+
+[[example]]
+name = "loop_return"
+path = "examples/08_flow_control/loop/loop_return.rs"
