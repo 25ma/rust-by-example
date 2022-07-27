@@ -7,7 +7,6 @@ edition = "2021"
 
 [dependencies]
 
-
 [[example]]
 name = "debug"
 path = "examples/01_1 hello world/print/debug.rs"
@@ -123,3 +122,7 @@ path = "examples/08_flow_control/loop/loop_return.rs"
 [[example]]
 name = "while"
 path = "examples/08_flow_control/while.rs"
+
+[[example]]
+name = "for"
+path = "examples/08_flow_control/for.rs"
