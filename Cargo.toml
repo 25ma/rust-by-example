@@ -119,3 +119,7 @@ path = "examples/08_flow_control/loop/nested.rs"
 [[example]]
 name = "loop_return"
 path = "examples/08_flow_control/loop/loop_return.rs"
+
+[[example]]
+name = "while"
+path = "examples/08_flow_control/while.rs"
