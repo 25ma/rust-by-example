@@ -126,3 +126,7 @@ path = "examples/08_flow_control/while.rs"
 [[example]]
 name = "for"
 path = "examples/08_flow_control/for.rs"
+
+[[example]]
+name = "match"
+path = "examples/08_flow_control/match.rs"
